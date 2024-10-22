@@ -342,7 +342,7 @@ hs_err_pid*
 .metals
 .bloop
 .vscode
-.generated
+generated
+simulate/*/obj_dir
 .out
 src/main/scala/*/out
-*.sv
