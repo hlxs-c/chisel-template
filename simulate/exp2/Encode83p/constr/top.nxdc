@@ -1,0 +1,7 @@
+top=Encode83p
+
+io_input (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+io_en (SW8)
+
+io_indicate LD0
+io_out (LD15, LD14, LD13)

@@ -1,0 +1,5 @@
+top=Bcd7seg
+
+io_input (SW3, SW2, SW1, SW0)
+
+io_output (SEG0G, SEG0F, SEG0E, SEG0D, SEG0C, SEG0B, SEG0A)
