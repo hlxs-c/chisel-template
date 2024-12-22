@@ -1,0 +1,7 @@
+top=ShiftRegister
+
+io_input (SW0)
+io_shiftRegSet (SW8, SW7, SW6, SW5, SW4, SW3, SW2, SW1)
+io_control (SW15, SW14, SW13)
+
+io_out (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)
