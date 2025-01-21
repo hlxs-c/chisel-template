@@ -1,0 +1,7 @@
+top=PS2Keyboard
+
+io_ps2_clk (PS2_CLK)
+io_ps2_data (PS2_DAT)
+
+io_out_valid (LD0)
+io_out_bits (LD8, LD7, LD6, LD5, LD4, LD3, LD2, LD1)
